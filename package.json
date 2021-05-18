@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "redlauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "productName": "RedLauncher V1",
+  "description": "Redstonia V3",
+  "author": "LePaladin001",
+  "license": "UNDER Licence",
+  "homepage": "ouipanel.fr",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://discord.gg/Q7CUBkHQfv"
   },
   "private": true,
   "main": "index.js",
